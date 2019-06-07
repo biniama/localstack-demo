@@ -2,6 +2,13 @@
 
 Simple demo application deployed using LocalStack.
 
+## {New Doc} Installed Dependencies  
+`brew install awscli`
+`python --version
+pip install localstack`
+`pip install awscli-local`
+
+
 ## Prerequisites
 
 * LocalStack
